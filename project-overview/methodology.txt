@@ -1,0 +1,28 @@
+I. Review sessions
+  a. Conduct an initial design session to determine intitial features
+    i. Define overall user goals
+    ii. Define an initial task list, with priorities of importance
+    iii. Design a preliminary user interface
+  b. conduct build-review sessions after every sprint before starting a new sprint
+    i. Test software as user
+    ii. Take notes and comments on observations or problems occurred during the test
+    iii. Revise goal list
+    iv. Revise and preoritize task list
+    v. Revise user interface changes 
+II. Artifacts
+  a. Goal list
+    i. One, or more, tasks will be derived from each goal
+    ii. Each individual goal should be phrased as a complete sentence and user verbs like "allow, provide, enable"
+  b. Task list
+    i. Tasks are the action the system allows an end-user to perform
+    ii. Each tasks is formatted as so: As a [role], I [must/want/should] be able to [action], so [reason]
+    iii. Group tasks into categories based on goal the satisfy
+    iv. Tasks will be assigned a priority of either: H (high), M (medium), L (low).
+  c. Code
+    i. Use IDE with code completion support
+    ii. Follow conventions for formatting of code to make code consistent
+    iii. Choose meaningful names for classes, methods, and variables to improve readability
+    iv. Comment classes and methods appropriately
+    v. Write a failing test before writing just enough code to allow test to pass, then refactor code before creating a new test
+    vi. Maintain a to-do list that mirror the task list
+    
