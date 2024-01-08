@@ -17,12 +17,19 @@ II. Artifacts
     i. Tasks are the action the system allows an end-user to perform
     ii. Each tasks is formatted as so: As a [role], I [must/want/should] be able to [action], so [reason]
     iii. Group tasks into categories based on goal the satisfy
-    iv. Tasks will be assigned a priority of either: H (high), M (medium), L (low).
+    iv. Tasks will be assigned a priority of either: H (high), M (medium), L (low)
+    v. Must be able to answer why a feature will be in the system before adding it to the task list
+    vi. Must be able to answer how a feature will be used before adding it to the task list
   c. Code
     i. Use IDE with code completion support
     ii. Follow conventions for formatting of code to make code consistent
     iii. Choose meaningful names for classes, methods, and variables to improve readability
     iv. Comment classes and methods appropriately
-    v. Write a failing test before writing just enough code to allow test to pass, then refactor code before creating a new test
+    v. Write a failing test before writing just enough code to allow test to pass, then refactor code before moving to a new test
     vi. Maintain a to-do list that mirror the task list
+III. Sprints
+  a. Perform 1 week sprints
+    i. Tasks to be performed in a sprint are decided before the sprints begins
+    ii. No new tasks will be added to a sprint once it is in progress
+    iii. Any remaining tasks unfinished will be moved to the next sprint
     
