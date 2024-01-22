@@ -1,7 +1,7 @@
-1. Will allow user to manage information of their financial transactions.
- 1.1 Will allow user to input their financial transactions.
- 1.2 Will allow user to edit their financial transactions.
- 1.3 Will allow user to delete their financial transactions.
-2. Will allow users to view their financial transactions.
- 2.1 Will allow users to view only their desired financial transactions.
- 2.2 Will provide user with statistical information regarding their financial transactions.
+1. Will allow user to manage financial transactions.
+  1.1 Will allow user to input financial transaction.
+  1.2 Will allow user to edit financial transaction.
+  1.3 Will allow user to delete financial transaction.
+2. Will allow users to view financial transactions.
+  2.1 Will allow users to view only desired financial transactions.
+  2.2 Will provide user with group data of financial transactions.
